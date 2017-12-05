@@ -1,0 +1,11 @@
+c:\users\kjoli_000\source\repos\na_site_api\na_site_api\bin\Debug\netcoreapp2.0\na_site_api.deps.json
+c:\users\kjoli_000\source\repos\na_site_api\na_site_api\bin\Debug\netcoreapp2.0\na_site_api.runtimeconfig.json
+c:\users\kjoli_000\source\repos\na_site_api\na_site_api\bin\Debug\netcoreapp2.0\na_site_api.runtimeconfig.dev.json
+c:\users\kjoli_000\source\repos\na_site_api\na_site_api\bin\Debug\netcoreapp2.0\na_site_api.dll
+c:\users\kjoli_000\source\repos\na_site_api\na_site_api\bin\Debug\netcoreapp2.0\na_site_api.pdb
+c:\users\kjoli_000\source\repos\na_site_api\na_site_api\obj\Debug\netcoreapp2.0\na_site_api.csprojResolveAssemblyReference.cache
+c:\users\kjoli_000\source\repos\na_site_api\na_site_api\obj\Debug\netcoreapp2.0\na_site_api.csproj.CoreCompileInputs.cache
+c:\users\kjoli_000\source\repos\na_site_api\na_site_api\obj\Debug\netcoreapp2.0\na_site_api.AssemblyInfoInputs.cache
+c:\users\kjoli_000\source\repos\na_site_api\na_site_api\obj\Debug\netcoreapp2.0\na_site_api.AssemblyInfo.cs
+c:\users\kjoli_000\source\repos\na_site_api\na_site_api\obj\Debug\netcoreapp2.0\na_site_api.dll
+c:\users\kjoli_000\source\repos\na_site_api\na_site_api\obj\Debug\netcoreapp2.0\na_site_api.pdb
